@@ -1,5 +1,9 @@
 node() {
 
-stage(){
+stage("Prep"){
+}
+  stage("Build"){
+}
+  stage("Build"){
 }
 }
